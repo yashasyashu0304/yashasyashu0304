@@ -1,0 +1,329 @@
+{
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "accentColor": "#00ffff"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1793102701143_0"
+    },
+    {
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 288,
+        "y": 106
+      },
+      "size": {
+        "width": 504,
+        "height": 280
+      },
+      "config": {
+        "showContactSection": true,
+        "accentColor": "#289a50",
+        "headerColor": "#00ff88",
+        "labelColor": "#55ffff",
+        "dotColor": "#2e4c38",
+        "valueColor": "#e6edf3",
+        "statsValColor": "#00ff88",
+        "dividerColor": "#1a2e22"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1793102701143_1"
+    },
+    {
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 8,
+        "y": 106
+      },
+      "size": {
+        "width": 280,
+        "height": 280
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "showTitle": false,
+        "hideDecorations": true,
+        "hideBorder": true,
+        "accentColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1793102701143_3"
+    },
+    {
+      "instanceId": "widget_1793174601193",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 402
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "YASHAS R",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "██    ██  ▄████▄   ▄█████  ██    ██  ▄████▄   ▄█████       ███████▄",
+          " ▀████▀  ██    ██ ██       ██    ██ ██    ██ ██            ██    ██",
+          "   ██    ████████  ▀████▄  ████████ ████████  ▀████▄       ███████▀",
+          "   ██    ██    ██       ██ ██    ██ ██    ██       ██      ██  ▀██▄",
+          "   ██    ██    ██ ██████▀  ██    ██ ██    ██ ██████▀       ██    ██"
+        ],
+        "accentColor": "#00ffff"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1793174618384",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 0,
+        "y": 538
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {
+        "customBio": "I am a final-year Civil Engineering student at NITK Surathkal with a strong interest in business analysis, data analytics, and product thinking.\nOver the past year, I have worked across digital marketing, brand strategy, content, and cross-functional operations including a startup internship where I contributed to investor pitch decks, campaign analytics, and business operations directly under the founders.\nI am currently building my analytics skill stack SQL, Python (pandas), Excel dashboards and working on data projects focused on real business problems.\nOpen to Business Analyst, Product Analyst, and Data Analyst roles."
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1793174638696",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 798
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "labelStyle": "icon",
+        "hideMetrics": [
+          "gists",
+          "forks"
+        ],
+        "accentColor": "#00ffff"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1793174746118",
+      "widgetId": "streak-stats",
+      "name": "Streak-stats Widget",
+      "position": {
+        "x": 0,
+        "y": 934
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {
+        "hideBorder": true,
+        "theme": "black-ice"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1793174763662",
+      "widgetId": "awesome-badge",
+      "name": "Awesome-badge Widget",
+      "position": {
+        "x": 208,
+        "y": 1158
+      },
+      "size": {
+        "width": 360,
+        "height": 80
+      },
+      "config": {
+        "hideBorder": true,
+        "accentColor": "#00ffff",
+        "badgeStyle": "flat-square",
+        "badgeColor": "00f0ff",
+        "logo": "github",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1793174772191",
+      "widgetId": "readme-quotes",
+      "name": "Readme-quotes Widget",
+      "position": {
+        "x": 384,
+        "y": 932
+      },
+      "size": {
+        "width": 416,
+        "height": 210
+      },
+      "config": {
+        "hideBorder": true,
+        "theme": "onedark"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1793174841491",
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 0,
+        "y": 1246
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Daily Loadout",
+        "workflow": [
+          "VS Code",
+          "Git",
+          "Figma",
+          "github",
+          "mySQL",
+          "scikit-learn",
+          "Vercel"
+        ],
+        "displayMode": "both",
+        "languages": [
+          "HTML",
+          "Python",
+          "Jupyter Notebook",
+          "MATLAB"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_1793175067655",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 1472
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "github",
+          "linkedin",
+          "instagram",
+          "gmail"
+        ],
+        "staticMode": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1793175097431",
+      "widgetId": "codeweb-hero-orbit",
+      "name": "Codeweb-hero-orbit Widget",
+      "position": {
+        "x": 0,
+        "y": 1532
+      },
+      "size": {
+        "width": 800,
+        "height": 360
+      },
+      "config": {
+        "tags": [
+          "Minimalism",
+          "Analytics",
+          "Marketing"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1793175132716",
+      "widgetId": "codeweb-minimal-badge",
+      "name": "Codeweb-minimal-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 1908
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "suffix": "powered by human creativity",
+        "hideBorder": true,
+        "showTitle": false,
+        "hideDecorations": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native_advanced"
+  },
+  "templateId": "native_advanced"
+}
